@@ -1,0 +1,377 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"en",
+				"endif"
+			],
+			[
+				"so",
+				"snoop"
+			],
+			[
+				"ha",
+				"have_next_"
+			],
+			[
+				"h",
+				"hasNext"
+			],
+			[
+				"si",
+				"siter_"
+			],
+			[
+				"c",
+				"cur_str_"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"sort",
+				"sortIter"
+			],
+			[
+				"str",
+				"str_vec_"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"st",
+				"str_vec_"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "polls/views.py",
+			"settings":
+			{
+				"buffer_size": 166,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "polls/urls.py",
+			"settings":
+			{
+				"buffer_size": 110,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "from django.urls import path"
+			}
+		},
+		{
+			"file": "djtest/urls.py",
+			"settings":
+			{
+				"buffer_size": 793,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/cpp11.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/cpp11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/cpp11.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/joey/dev/spikes/peek_iter.cc",
+		"/home/joey/fixnet.sh",
+		"/usr/src/r8168-8.043.02/r8168_n.c",
+		"/home/joey/Downloads/r8168-8.045.08/src/r8168_n.c",
+		"/var/lib/dkms/r8168/8.043.02/build/make.log",
+		"/home/joey/.vmware/preferences",
+		"/home/joey/.config/sublime-text-3/Packages/User/cpp11.sublime-build",
+		"/home/joey/dev/spikes/peek_iter.ccc",
+		"/home/joey/dev/rt8192cu/os_dep/linux/os_intfs.c",
+		"/home/joey/dev/rt8192cu/include/osdep_service.h",
+		"/home/joey/.sabnzbd/sabnzbd.ini",
+		"/etc/default/couchpotato",
+		"/home/joey/Downloads/xDrip-6ET53.wxl",
+		"/var/lib/plexmediaserver/Library/Application Support/Plex Media Server/Media/localhost/9/b7ff7b5157a010945c3dd48974354648a579443.bundle/Contents/Subtitle Contributions/com.plexapp.agents.opensubtitles/en/fe4d24dbcfefe0fa27570865e7712a10a093ede3.srt",
+		"/var/lib/plexmediaserver/Library/Application Support/Plex Media Server/Media/localhost/f/d3ad874f3ad644bcc72a23ca2efed8193876713.bundle/Contents/Subtitle Contributions/com.plexapp.agents.opensubtitles.xml",
+		"/var/lib/AccountsService/users/nzbdrone",
+		"/etc/init.d/nzbdrone"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dev->last",
+			"fol"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "polls/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "polls/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"auto_name": "from django.urls import path",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "djtest/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								728,
+								728
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 289.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/cpp11.sublime-build",
+	"project": "djtest.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
